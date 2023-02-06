@@ -1,0 +1,29 @@
+/* Definindo a largura e a propriedade float do elemento <section> */
+section {
+    border: 1px solid blue;
+    width: 100%;
+    float: left;
+}
+
+/* Configurando as propriedades margin, widht e height do elemento <div> */
+div {
+    margin: 5px;
+    width: 50px;
+    height: 150px;
+}
+
+/* configurando a classe .esquerda para colocar os elementos associados a essa 
+classe à esquerda da página */
+.esquerda {
+    float: left;
+    background: pink;
+}
+
+/* confirgurando  a classe .direita para colocar os elementos associados a essa classe 
+à esquerda da página */
+.direita {
+    float: right;
+    background: cyan;
+}
+
+
